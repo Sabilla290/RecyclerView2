@@ -1,19 +1,16 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.adapter;
+package id.sch.smktelkom_mlg.learn.recyclerview2.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.TextClock;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.learn.recyclerview1.R;
-import id.sch.smktelkom_mlg.learn.recyclerview1.model.Hotel;
+import id.sch.smktelkom_mlg.learn.recyclerview2.R;
+import id.sch.smktelkom_mlg.learn.recyclerview2.model.Hotel;
 
 /**
  * Created by mrs Bella on 10/31/2016.
